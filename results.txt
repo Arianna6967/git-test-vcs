@@ -1,0 +1,73 @@
+On branch main
+Your branch is ahead of 'origin/main' by 5 commits.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	results.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+  feature
+* main
+commit 4804a9619d9f6f9dba7bb68775db824e358b2deb
+Merge: 39d8473 6ba6d9d
+Author: Arianna <ariannatkachenko10@gmail.com>
+Date:   Mon Oct 26 21:43:12 2026 +0200
+
+    :wq
+
+commit 39d84731683429fe9a2dee253ad8a16d047657ac
+Author: Arianna Tkachenko <ariannatkachenko10@gmail.com>
+Date:   Mon Oct 26 21:36:49 2026 +0200
+
+    Create github-file.txt with initial content
+
+commit 6ba6d9dc10395e89068c15490eca102b4ebf9492
+Merge: ae67ac4 f62a337
+Author: Arianna <ariannatkachenko10@gmail.com>
+Date:   Mon Oct 26 21:31:01 2026 +0200
+
+    Вирішено конфлікт між feature та main
+
+commit f62a33776bbc569ef41fa419c60037aab8c10706
+Author: Arianna <ariannatkachenko10@gmail.com>
+Date:   Mon Oct 26 21:26:50 2026 +0200
+
+    Додано зміну у гілці main
+
+commit ae67ac4de43291550e1b56e53aefeb0d3cb02293
+Author: Arianna <ariannatkachenko10@gmail.com>
+Date:   Mon Oct 26 21:24:11 2026 +0200
+
+    Додано третю зміну у гілці feature
+
+commit 42de472d8cebe74a645a8e042276af4bb94a7780
+Author: Arianna <ariannatkachenko10@gmail.com>
+Date:   Mon Oct 26 21:23:43 2026 +0200
+
+    Додано другу зміну у гілці feature
+
+commit 18f0bd7791158306ccbabfb438f0757145a5f37b
+Author: Arianna <ariannatkachenko10@gmail.com>
+Date:   Mon Oct 26 21:22:28 2026 +0200
+
+    Додано першу зміну у гілці feature
+
+commit b32997880fe3a623438d3cb2dd749bbac22962f5
+Author: Arianna <ariannatkachenko10@gmail.com>
+Date:   Mon Oct 26 21:19:34 2026 +0200
+
+    Додано перший файл test.txt
+commit 4804a9619d9f6f9dba7bb68775db824e358b2deb
+Merge: 39d8473 6ba6d9d
+Author: Arianna <ariannatkachenko10@gmail.com>
+Date:   Mon Oct 26 21:43:12 2026 +0200
+
+    :wq
+
+commit 6ba6d9dc10395e89068c15490eca102b4ebf9492
+Merge: ae67ac4 f62a337
+Author: Arianna <ariannatkachenko10@gmail.com>
+Date:   Mon Oct 26 21:31:01 2026 +0200
+
+    Вирішено конфлікт між feature та main
